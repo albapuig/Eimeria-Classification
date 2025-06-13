@@ -11,7 +11,7 @@ This repository contains the code and notebooks developed as part of my **Final 
 ---
 
 ## 📂 Repository Structure
-
+```
 Eimeria-TFG/
 ├── notebooks/ # Jupyter notebooks
 │ ├── Eimeria_Classification.ipynb
@@ -22,13 +22,12 @@ Eimeria-TFG/
 │
 ├── data/
   └── README.md
-
+```
 ## 🔒 Data Availability
 The datasets used in this project are private due to confidentiality:
 
-- reference_data.xlsx – manually measured Eimeria oocysts
-
-- auto_measurements.xlsx – features extracted from image processing
+- `reference_data.xlsx` – manually measured *Eimeria* oocysts  
+- `auto_measurements.xlsx` – features extracted from image processing
 
 ## 👩‍🔬 Author
 Alba Puig Font
