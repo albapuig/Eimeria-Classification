@@ -31,6 +31,7 @@ The datasets used in this project are private due to confidentiality:
 
 ## 👩‍🔬 Author
 Alba Puig Font
+
 Final Degree Project – Computational Mathematics and Data Analytics
-HIPRA | 2025
+
 
